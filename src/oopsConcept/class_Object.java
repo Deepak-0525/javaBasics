@@ -9,6 +9,7 @@ public class class_Object {
     public static void main(String[]args){
         class_Object object = new class_Object();
         object.food();
+
     }
 }
 
