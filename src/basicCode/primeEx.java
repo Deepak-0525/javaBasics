@@ -1,3 +1,5 @@
+package basicCode;
+
 import java.util.Scanner;
 
 public class primeEx {

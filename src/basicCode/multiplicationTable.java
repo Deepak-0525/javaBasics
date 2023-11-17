@@ -1,3 +1,5 @@
+package basicCode;
+
 import java.io.DataInputStream;
 
 public class multiplicationTable {
